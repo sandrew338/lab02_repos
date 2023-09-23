@@ -21,4 +21,5 @@ int main()
 	cout << "z2 = " << z2 << endl;
 	cin.get();
 	return 0;
+	//çì³íşş êîä
 }
